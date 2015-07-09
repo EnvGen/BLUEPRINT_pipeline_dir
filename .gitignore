@@ -1,0 +1,8 @@
+.snakemake*
+annotation/*
+mapping/*
+quantification/*
+slurm-*
+references/*
+samples/*
+*-slurm.out
