@@ -1,0 +1,3 @@
+[submodule "BLUEPRINT_pipeline"]
+	path = BLUEPRINT_pipeline
+	url = git@github.com:EnvGen/BLUEPRINT_pipeline.git
