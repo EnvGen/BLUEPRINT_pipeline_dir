@@ -7,4 +7,5 @@ references/*
 samples/*
 cutadapt/*
 fastqc/*
+fastuniq/*
 *-slurm.out
