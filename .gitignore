@@ -8,4 +8,5 @@ samples/*
 cutadapt/*
 fastqc/*
 fastuniq/*
+finished_reads/*
 *-slurm.out
